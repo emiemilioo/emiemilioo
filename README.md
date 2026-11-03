@@ -14,7 +14,37 @@ También disfruto aprender sobre ciencia de datos, inteligencia artificial, Inte
 
 ## 💡 Áreas de interés
 
+- 📊 Ciencia de datos y visualización.
+- 🤖 Inteligencia artificial.
+- 🧠 Machine Learning y Deep Learning.
+- 🌐 Desarrollo web.
+- 🎨 Experiencia de usuario e identidad visual.
+- 🗄️ Bases de datos.
+- 📡 Internet de las Cosas (IoT).
+- 🦾 Robótica.
+- 🎭 Relación entre arte y tecnología.
+- 🌱 Tecnología aplicada al bienestar social.
+
 ## 🛠️ Habilidades y tecnologías
+
+### Lenguajes
+
+- `Python`
+- `Java`
+- `C++`
+- `HTML5`
+- `CSS3`
+- `JavaScript`
+
+### Bases de datos
+
+- `MySQL`
+
+### Herramientas
+
+- `Android Studio`
+- `Git`
+- `GitHub`
 
 ## 🚀 Proyectos destacados
 
