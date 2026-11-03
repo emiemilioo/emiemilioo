@@ -27,22 +27,26 @@ También disfruto aprender sobre ciencia de datos, inteligencia artificial, Inte
 
 ## 🛠️ Habilidades y tecnologías
 
-### Lenguajes
+### Lenguajes y tecnologías web
 
 - `Python`
 - `Java`
 - `C++`
-- `HTML5`
-- `CSS3`
+- `HTML`
+- `CSS`
 - `JavaScript`
+- `TypeScript`
 
 ### Bases de datos
 
 - `MySQL`
 
-### Herramientas
+### Entornos y herramientas
 
 - `Android Studio`
+- `NetBeans`
+- `Visual Studio Code`
+- `PyCharm`
 - `Git`
 - `GitHub`
 
