@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hola, soy Emilio
 
-<!--
-**emiemilioo/emiemilioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Sobre mí
 
-Here are some ideas to get you started:
+## 💡 Áreas de interés
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Habilidades y tecnologías
+
+## 🚀 Proyectos destacados
+
+## 🎧 Música que acompaña mi código
+
+## 📫 Contacto
