@@ -96,6 +96,43 @@ Sitio web informativo creado para difundir las actividades culturales, gastronó
 
 ---
 
+### ⚡ Predicción del consumo energético de Guayaquil
+
+Proyecto de ciencia de datos que utiliza información histórica para predecir el consumo mensual de energía eléctrica en Guayaquil.
+
+**Funcionalidades principales:**
+
+- Limpieza y preparación de datos históricos.
+- Análisis de series temporales.
+- Creación y entrenamiento de un modelo SARIMA.
+- Generación de predicciones de consumo energético.
+- Interfaz para consultar predicciones por mes y año.
+
+**Mi contribución:** participé en la preparación y revisión de los datos, la creación del modelo predictivo SARIMA y el diseño de la experiencia para consultar las predicciones.
+
+**Tecnologías:** `Python`, `Pandas`, `NumPy`, `Statsmodels` y `SARIMA`  
+**Tipo:** proyecto colaborativo  
+**Repositorio:** [Guayaquil-Energy-Prediction](https://github.com/cgutierrez05/Guayaquil-Energy-Prediction)
+
+---
+
+### 🎮 Tic-Tac-Toe
+
+Implementación del clásico juego Tres en Raya desarrollada para practicar estructuras de datos, lógica de programación e interactividad.
+
+**Funcionalidades principales:**
+
+- Registro y validación de jugadas.
+- Control de los turnos.
+- Verificación de combinaciones ganadoras.
+- Interacción entre el usuario y el juego.
+
+**Mi contribución:** participé en el desarrollo del juego, la implementación de su lógica, la identidad visual y la experiencia de interacción.
+
+**Tecnología principal:** `Java`  
+**Tipo:** proyecto académico colaborativo  
+**Repositorio:** [MigueAlb/Tic-Tac-Toe](https://github.com/MigueAlb/Tic-Tac-Toe)
+
 ## 🎧 Música que acompaña mi código
 
 ## 📫 Contacto
