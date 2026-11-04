@@ -149,8 +149,6 @@ Algunos de mis álbumes favoritos son:
 
 ## 📫 Contacto
 
-## 📫 Contacto
-
 Puedes encontrarme y conocer más sobre mis proyectos en:
 
 - [GitHub — emiemilioo](https://github.com/emiemilioo)
