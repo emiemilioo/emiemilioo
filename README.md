@@ -117,9 +117,9 @@ La música forma parte de mi proceso creativo y suele acompañarme mientras estu
 
 ## `> Contacto`
 
-Puedes encontrarme y conocer más sobre mis proyectos en:
+Si quieres conocer más sobre mis proyectos o conversar sobre tecnología, diseño y desarrollo, puedes encontrarme en:
 
-- [GitHub — emiemilioo](https://github.com/emiemilioo)
-- [LinkedIn — Emilio Joel Jaramillo Vera](https://www.linkedin.com/in/emilio-joel-jaramillo-vera-0017822b3)
-- [Instagram — @emiemiliio](https://www.instagram.com/emiemiliio/)
-- [Correo — joeljaramilloev24@gmail.com](mailto:joeljaramilloev24@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emiemilioo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilio-joel-jaramillo-vera-0017822b3)
+[![Instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emiemiliio/)
+[![Correo](https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joeljaramilloev24@gmail.com)
