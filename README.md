@@ -1,12 +1,12 @@
-# 👋 Hola, soy Emilio
+# Hola, soy Emilio
 
 Soy estudiante de quinto semestre de la carrera de Computación en la Escuela Superior Politécnica del Litoral (ESPOL).
 
-He participado en hackathons y proyectos académicos colaborativos, experiencias que me han permitido fortalecer habilidades como el trabajo en equipo, la comunicación, la creatividad y la resolución de problemas.
+He participado en hackathons y proyectos académicos colaborativos, donde he fortalecido habilidades como el trabajo en equipo, la comunicación, la creatividad y la resolución de problemas.
 
 ---
 
-## 👨‍💻 Sobre mí
+## `> Sobre mí`
 
 Me interesa explorar la relación entre el arte y la tecnología, investigando cómo ambas áreas pueden conectarse para crear experiencias digitales innovadoras, accesibles y útiles.
 
@@ -16,22 +16,32 @@ También disfruto aprender sobre ciencia de datos, inteligencia artificial, Inte
 
 ---
 
-## 💡 Áreas de interés
+## `> Áreas de interés`
 
-- 📊 Ciencia de datos y visualización.
-- 🤖 Inteligencia artificial.
-- 🧠 Machine Learning y Deep Learning.
-- 🌐 Desarrollo web.
-- 🎨 Experiencia de usuario e identidad visual.
-- 🗄️ Bases de datos.
-- 📡 Internet de las Cosas (IoT).
-- 🦾 Robótica.
-- 🎭 Relación entre arte y tecnología.
-- 🌱 Tecnología aplicada al bienestar social.
+Me interesa trabajar en proyectos donde la programación, los datos y el diseño puedan conectarse para crear soluciones útiles.
+
+### Datos e inteligencia artificial
+
+![Ciencia de datos](https://img.shields.io/badge/Ciencia_de_datos-6D5DFB?style=for-the-badge)
+![Visualización](https://img.shields.io/badge/Visualizaci%C3%B3n-7C3AED?style=for-the-badge)
+![Inteligencia artificial](https://img.shields.io/badge/Inteligencia_artificial-2563EB?style=for-the-badge)
+![Machine Learning y Deep Learning](https://img.shields.io/badge/Machine_%26_Deep_Learning-0284C7?style=for-the-badge)
+
+### Desarrollo y diseño
+
+![Desarrollo web](https://img.shields.io/badge/Desarrollo_web-C2410C?style=for-the-badge)
+![Experiencia de usuario e identidad visual](https://img.shields.io/badge/UX_%26_identidad_visual-BE185D?style=for-the-badge)
+![Bases de datos](https://img.shields.io/badge/Bases_de_datos-0369A1?style=for-the-badge)
+
+### Tecnología aplicada
+
+![Internet de las Cosas y robótica](https://img.shields.io/badge/IoT_%26_rob%C3%B3tica-0F766E?style=for-the-badge)
+![Arte y tecnología](https://img.shields.io/badge/Arte_%26_tecnolog%C3%ADa-A21CAF?style=for-the-badge)
+![Impacto social](https://img.shields.io/badge/Impacto_social-15803D?style=for-the-badge)
 
 ---
 
-## 🛠️ Habilidades y tecnologías
+## `> Habilidades y tecnologías`
 
 ### Lenguajes de programación
 
@@ -61,30 +71,30 @@ También disfruto aprender sobre ciencia de datos, inteligencia artificial, Inte
 
 ---
 
-## 🚀 Proyectos destacados
+## `> Proyectos destacados`
 
-| 💸 **Saldo Claro — Agentic Scale Hackathon** |
+| **Saldo Claro — Agentic Scale Hackathon** |
 |---|
 | Agente financiero conversacional para registrar gastos, controlar presupuestos y atender consultas desde una aplicación web y una experiencia simulada de WhatsApp. |
 | **Mi aporte:** desarrollo colaborativo, identidad visual, experiencia de usuario y revisión de los flujos de datos. |
 | **Tecnologías:** `React` · `JavaScript` · `Python` · `FastAPI` · `SQLite` · `Gemini` · `Vite` |
 | [Ver repositorio](https://github.com/emiemilioo/Agentic-Scale-Hackathon-CodDivas) · [Probar demostración](https://agentic-scale-hackathon.vercel.app) |
 
-| 🏮 **Mercado Nocturno del Barrio Chino** |
+| **Mercado Nocturno del Barrio Chino** |
 |---|
 | Sitio web informativo para difundir las actividades culturales, gastronómicas y comerciales del Mercado Nocturno del Barrio Chino de Guayaquil. |
 | **Mi aporte:** desarrollo del sitio, creación de la identidad visual y organización de la experiencia de navegación. |
 | **Tecnologías:** `HTML` · `CSS` · `JavaScript` |
 | [Ver repositorio](https://github.com/MigueAlb/Proyecto-02) |
 
-| ⚡ **Predicción del consumo energético de Guayaquil** |
+| **Predicción del consumo energético de Guayaquil** |
 |---|
 | Proyecto de ciencia de datos que emplea información histórica y un modelo SARIMA para predecir el consumo mensual de energía eléctrica en Guayaquil. |
 | **Mi aporte:** preparación y revisión de datos, creación del modelo predictivo SARIMA y diseño de la experiencia de consulta. |
 | **Tecnologías:** `Python` · `Pandas` · `NumPy` · `Statsmodels` · `SARIMA` |
 | [Ver repositorio](https://github.com/cgutierrez05/Guayaquil-Energy-Prediction) |
 
-| 🎮 **Tic-Tac-Toe** |
+| **Tic-Tac-Toe** |
 |---|
 | Aplicación del clásico juego Tres en Raya desarrollada en Java para practicar lógica de programación, estructuras de datos, validación de jugadas e interactividad. |
 | **Mi aporte:** desarrollo del juego, implementación de la lógica, identidad visual y experiencia de interacción. |
@@ -93,7 +103,7 @@ También disfruto aprender sobre ciencia de datos, inteligencia artificial, Inte
 
 ---
 
-## 🎧 Música que acompaña mi código
+## `> Música que acompaña mi código`
 
 La música forma parte de mi proceso creativo y suele acompañarme mientras estudio, programo o diseño nuevas ideas. Mis gustos van desde el dream pop y el rock en español hasta el pop y el K-pop.
 
@@ -105,7 +115,7 @@ La música forma parte de mi proceso creativo y suele acompañarme mientras estu
 
 ---
 
-## 📫 Contacto
+## `> Contacto`
 
 Puedes encontrarme y conocer más sobre mis proyectos en:
 
