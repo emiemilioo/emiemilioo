@@ -148,3 +148,12 @@ Algunos de mis álbumes favoritos son:
 - [*Midnights (The Til Dawn Edition)* — Taylor Swift](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A)
 
 ## 📫 Contacto
+
+## 📫 Contacto
+
+Puedes encontrarme y conocer más sobre mis proyectos en:
+
+- [GitHub — emiemilioo](https://github.com/emiemilioo)
+- [LinkedIn — Emilio Joel Jaramillo Vera](https://www.linkedin.com/in/emilio-joel-jaramillo-vera-0017822b3)
+- [Instagram — @emiemiliio](https://www.instagram.com/emiemiliio/)
+- [Correo — joeljaramilloev24@gmail.com](mailto:joeljaramilloev24@gmail.com)
