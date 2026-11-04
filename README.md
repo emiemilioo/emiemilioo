@@ -18,24 +18,13 @@ También disfruto aprender sobre ciencia de datos, inteligencia artificial, Inte
 
 ## `> Áreas de interés`
 
-Me interesa trabajar en proyectos donde la programación, los datos y el diseño puedan conectarse para crear soluciones útiles.
+Me interesa explorar proyectos que conecten los datos, el desarrollo y el diseño. Quiero seguir profundizando en visualización, modelos de Machine Learning y Deep Learning, desarrollo web y tecnologías que relacionen el mundo digital con el físico.
 
-### Datos e inteligencia artificial
-
-![Ciencia de datos](https://img.shields.io/badge/Ciencia_de_datos-6D5DFB?style=for-the-badge)
-![Visualización](https://img.shields.io/badge/Visualizaci%C3%B3n-7C3AED?style=for-the-badge)
-![Inteligencia artificial](https://img.shields.io/badge/Inteligencia_artificial-2563EB?style=for-the-badge)
-![Machine Learning y Deep Learning](https://img.shields.io/badge/Machine_%26_Deep_Learning-0284C7?style=for-the-badge)
-
-### Desarrollo y diseño
-
+![Ciencia de datos e IA](https://img.shields.io/badge/Ciencia_de_datos_%26_IA-6D5DFB?style=for-the-badge)
 ![Desarrollo web](https://img.shields.io/badge/Desarrollo_web-C2410C?style=for-the-badge)
 ![UX y UI](https://img.shields.io/badge/UX_%26_UI-BE185D?style=for-the-badge)
 ![Bases de datos](https://img.shields.io/badge/Bases_de_datos-0369A1?style=for-the-badge)
-
-### Tecnología creativa
-
-![Internet de las Cosas y robótica](https://img.shields.io/badge/IoT_%26_rob%C3%B3tica-0F766E?style=for-the-badge)
+![IoT y robótica](https://img.shields.io/badge/IoT_%26_rob%C3%B3tica-0F766E?style=for-the-badge)
 ![Arte y tecnología](https://img.shields.io/badge/Arte_%26_tecnolog%C3%ADa-A21CAF?style=for-the-badge)
 
 ---
