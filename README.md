@@ -121,13 +121,14 @@ Me interesa trabajar en proyectos donde la programación, los datos y el diseño
 
 ## `> Música que acompaña mi código`
 
-La música forma parte de mi proceso creativo y suele acompañarme mientras estudio, programo o diseño nuevas ideas. Mis gustos van desde el dream pop y el rock en español hasta el pop y el K-pop.
+La música forma parte de mi proceso creativo y suele acompañarme mientras estudio, programo o diseño. Estos son algunos de los álbumes que siempre vuelvo a escuchar.
 
-| [![Heaven or Las Vegas — Cocteau Twins](https://i.scdn.co/image/ab67616d00001e02fe6211303e796f3d5b7a0e02)](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | [![Feel My Rhythm — Red Velvet](https://i.scdn.co/image/ab67616d00001e028c4a282e84a53c1c8acf129a)](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | [![Bocanada — Gustavo Cerati](https://i.scdn.co/image/ab67616d00001e021152471596980e1bba03b6ab)](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | [![Get Up — NewJeans](https://i.scdn.co/image/ab67616d00001e020744690248ef3ba7b776ea7b)](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) |
-|:---:|:---:|:---:|:---:|
-| [***Heaven or Las Vegas***](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | [***Feel My Rhythm***](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | [***Bocanada***](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | [***Get Up***](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) |
-| [![Eyes Wide Open — TWICE](https://i.scdn.co/image/ab67616d00001e026570fd05bcff5edcb16e617d)](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | [![Amor Amarillo — Gustavo Cerati](https://i.scdn.co/image/ab67616d00001e02a2ec3791d9fd51ad343cc885)](https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR) | [![Midnights — Taylor Swift](https://i.scdn.co/image/ab67616d00001e02fa747621a53c8e2cc436dee0)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | [![Dynamo — Soda Stereo](https://i.scdn.co/image/ab67616d00001e02b755f1b1b4410d404fe21167)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) |
-| [***Eyes Wide Open***](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | [***Amor Amarillo***](https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR) | [***Midnights***](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | [***Dynamo***](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) |
+| [![Heaven or Las Vegas — Cocteau Twins](https://i.scdn.co/image/ab67616d00001e02fe6211303e796f3d5b7a0e02)](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | [![Feel My Rhythm — Red Velvet](https://i.scdn.co/image/ab67616d00001e028c4a282e84a53c1c8acf129a)](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | [![Bocanada — Gustavo Cerati](https://i.scdn.co/image/ab67616d00001e021152471596980e1bba03b6ab)](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | [![Get Up — NewJeans](https://i.scdn.co/image/ab67616d00001e020744690248ef3ba7b776ea7b)](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | [![Eyes Wide Open — TWICE](https://i.scdn.co/image/ab67616d00001e026570fd05bcff5edcb16e617d)](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | [![Amor Amarillo — Gustavo Cerati](https://i.scdn.co/image/ab67616d00001e02a2ec3791d9fd51ad343cc885)](https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR) | [![Midnights — Taylor Swift](https://i.scdn.co/image/ab67616d00001e02fa747621a53c8e2cc436dee0)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | [![Dynamo — Soda Stereo](https://i.scdn.co/image/ab67616d00001e02b755f1b1b4410d404fe21167)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
+¿Tienes alguna playlist o algún álbum que debería escuchar? Siempre acepto recomendaciones.
+
+[![Mi perfil en Spotify](https://img.shields.io/badge/Visita_mi_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/xosbgd9y6i7p8jqsota6ajyx0)
 
 ---
 
