@@ -135,4 +135,16 @@ Implementación del clásico juego Tres en Raya desarrollada para practicar estr
 
 ## 🎧 Música que acompaña mi código
 
+La música forma parte de mi proceso creativo y suele acompañarme mientras estudio, programo o diseño nuevas ideas. Mis gustos van desde el dream pop y el rock en español hasta el pop y el K-pop.
+Algunos de mis álbumes favoritos son:
+
+- [*Heaven or Las Vegas* — Cocteau Twins](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E)
+- [*Bocanada* — Gustavo Cerati](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC)
+- [*Amor Amarillo* — Gustavo Cerati](https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR)
+- [*Dynamo (Remastered)* — Soda Stereo](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ)
+- [*Eyes Wide Open* — TWICE](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH)
+- [*The ReVe Festival 2022 – Feel My Rhythm* — Red Velvet](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46)
+- [*Get Up* — NewJeans](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18)
+- [*Midnights (The Til Dawn Edition)* — Taylor Swift](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A)
+
 ## 📫 Contacto
