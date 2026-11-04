@@ -63,86 +63,33 @@ También disfruto aprender sobre ciencia de datos, inteligencia artificial, Inte
 
 ## 🚀 Proyectos destacados
 
-### 💸 Saldo Claro — Agentic Scale Hackathon
+| 💸 **Saldo Claro — Agentic Scale Hackathon** |
+|---|
+| Agente financiero conversacional para registrar gastos, controlar presupuestos y atender consultas desde una aplicación web y una experiencia simulada de WhatsApp. |
+| **Mi aporte:** desarrollo colaborativo, identidad visual, experiencia de usuario y revisión de los flujos de datos. |
+| **Tecnologías:** `React` · `JavaScript` · `Python` · `FastAPI` · `SQLite` · `Gemini` · `Vite` |
+| [Ver repositorio](https://github.com/emiemilioo/Agentic-Scale-Hackathon-CodDivas) · [Probar demostración](https://agentic-scale-hackathon.vercel.app) |
 
-Agente financiero conversacional creado para registrar gastos, controlar presupuestos y atender consultas desde una aplicación web y una experiencia simulada de WhatsApp.
+| 🏮 **Mercado Nocturno del Barrio Chino** |
+|---|
+| Sitio web informativo para difundir las actividades culturales, gastronómicas y comerciales del Mercado Nocturno del Barrio Chino de Guayaquil. |
+| **Mi aporte:** desarrollo del sitio, creación de la identidad visual y organización de la experiencia de navegación. |
+| **Tecnologías:** `HTML` · `CSS` · `JavaScript` |
+| [Ver repositorio](https://github.com/MigueAlb/Proyecto-02) |
 
-El proyecto fue desarrollado para el Track 2 de Agentic Scale durante Ecuador Tech Week 2026.
+| ⚡ **Predicción del consumo energético de Guayaquil** |
+|---|
+| Proyecto de ciencia de datos que emplea información histórica y un modelo SARIMA para predecir el consumo mensual de energía eléctrica en Guayaquil. |
+| **Mi aporte:** preparación y revisión de datos, creación del modelo predictivo SARIMA y diseño de la experiencia de consulta. |
+| **Tecnologías:** `Python` · `Pandas` · `NumPy` · `Statsmodels` · `SARIMA` |
+| [Ver repositorio](https://github.com/cgutierrez05/Guayaquil-Energy-Prediction) |
 
-**Funcionalidades principales:**
-
-- Interpretación de gastos escritos en lenguaje natural mediante Gemini.
-- Registro, edición y eliminación de movimientos financieros.
-- Consulta de saldos e historial de transacciones.
-- Creación de presupuestos y alertas configurables.
-- Identificación de casos sensibles y creación de tickets.
-- Experiencia web adaptable y simulación de conversaciones por WhatsApp.
-
-**Mi contribución:** participé en el desarrollo colaborativo de la solución, con especial atención a la identidad visual, la experiencia de usuario y la revisión de los flujos de datos.
-
-**Tecnologías:** `React`, `JavaScript`, `Python`, `FastAPI`, `SQLite`, `Gemini` y `Vite`  
-**Tipo:** proyecto colaborativo de hackathon  
-**Repositorio:** [Agentic-Scale-Hackathon-CodDivas](https://github.com/emiemilioo/Agentic-Scale-Hackathon-CodDivas)  
-**Demostración:** [Probar Saldo Claro](https://agentic-scale-hackathon.vercel.app)
-
----
-
-### 🏮 Mercado Nocturno del Barrio Chino
-
-Sitio web informativo creado para difundir las actividades culturales, gastronómicas y comerciales del Mercado Nocturno del Barrio Chino de Guayaquil.
-
-**Funcionalidades principales:**
-
-- Presentación de la historia y cultura del sector.
-- Agenda de actividades y eventos.
-- Información para emprendedores y organizaciones aliadas.
-- Contenido dedicado a experiencias de la comunidad.
-- Diseño adaptable a computadoras y dispositivos móviles.
-
-**Mi contribución:** participé en el desarrollo del sitio, la creación de su identidad visual y la organización de la experiencia de navegación.
-
-**Tecnologías:** `HTML`, `CSS` y `JavaScript`  
-**Tipo:** proyecto académico colaborativo  
-**Repositorio:** [MigueAlb/Proyecto-02](https://github.com/MigueAlb/Proyecto-02)
-
----
-
-### ⚡ Predicción del consumo energético de Guayaquil
-
-Proyecto de ciencia de datos que utiliza información histórica para predecir el consumo mensual de energía eléctrica en Guayaquil.
-
-**Funcionalidades principales:**
-
-- Limpieza y preparación de datos históricos.
-- Análisis de series temporales.
-- Creación y entrenamiento de un modelo SARIMA.
-- Generación de predicciones de consumo energético.
-- Interfaz para consultar predicciones por mes y año.
-
-**Mi contribución:** participé en la preparación y revisión de los datos, la creación del modelo predictivo SARIMA y el diseño de la experiencia para consultar las predicciones.
-
-**Tecnologías y modelo:** `Python`, `Pandas`, `NumPy`, `Statsmodels` y `SARIMA`  
-**Tipo:** proyecto colaborativo  
-**Repositorio:** [Guayaquil-Energy-Prediction](https://github.com/cgutierrez05/Guayaquil-Energy-Prediction)
-
----
-
-### 🎮 Tic-Tac-Toe
-
-Implementación del clásico juego Tres en Raya desarrollada para practicar estructuras de datos, lógica de programación e interactividad.
-
-**Funcionalidades principales:**
-
-- Registro y validación de jugadas.
-- Control de los turnos.
-- Verificación de combinaciones ganadoras.
-- Interacción entre el usuario y el juego.
-
-**Mi contribución:** participé en el desarrollo del juego, la implementación de su lógica, la identidad visual y la experiencia de interacción.
-
-**Tecnología principal:** `Java`  
-**Tipo:** proyecto académico colaborativo  
-**Repositorio:** [MigueAlb/Tic-Tac-Toe](https://github.com/MigueAlb/Tic-Tac-Toe)
+| 🎮 **Tic-Tac-Toe** |
+|---|
+| Aplicación del clásico juego Tres en Raya desarrollada en Java para practicar lógica de programación, estructuras de datos, validación de jugadas e interactividad. |
+| **Mi aporte:** desarrollo del juego, implementación de la lógica, identidad visual y experiencia de interacción. |
+| **Tecnologías:** `Java` |
+| [Ver repositorio](https://github.com/MigueAlb/Tic-Tac-Toe) |
 
 ---
 
