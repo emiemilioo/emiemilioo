@@ -4,6 +4,8 @@ Soy estudiante de quinto semestre de la carrera de Computación en la Escuela Su
 
 He participado en hackathons y proyectos académicos colaborativos, experiencias que me han permitido fortalecer habilidades como el trabajo en equipo, la comunicación, la creatividad y la resolución de problemas.
 
+---
+
 ## 👨‍💻 Sobre mí
 
 Me interesa explorar la relación entre el arte y la tecnología, investigando cómo ambas áreas pueden conectarse para crear experiencias digitales innovadoras, accesibles y útiles.
@@ -11,6 +13,8 @@ Me interesa explorar la relación entre el arte y la tecnología, investigando c
 Uno de mis principales objetivos es utilizar la tecnología para contribuir a la sociedad, facilitar procesos, resolver problemas y mejorar la vida de las personas.
 
 También disfruto aprender sobre ciencia de datos, inteligencia artificial, Internet de las Cosas, robótica, bases de datos, desarrollo web y experiencia de usuario.
+
+---
 
 ## 💡 Áreas de interés
 
@@ -25,17 +29,22 @@ También disfruto aprender sobre ciencia de datos, inteligencia artificial, Inte
 - 🎭 Relación entre arte y tecnología.
 - 🌱 Tecnología aplicada al bienestar social.
 
+---
+
 ## 🛠️ Habilidades y tecnologías
 
-### Lenguajes y tecnologías web
+### Lenguajes de programación
 
 - `Python`
 - `Java`
 - `C++`
-- `HTML`
-- `CSS`
 - `JavaScript`
 - `TypeScript`
+
+### Tecnologías web
+
+- `HTML`
+- `CSS`
 
 ### Bases de datos
 
@@ -49,6 +58,8 @@ También disfruto aprender sobre ciencia de datos, inteligencia artificial, Inte
 - `PyCharm`
 - `Git`
 - `GitHub`
+
+---
 
 ## 🚀 Proyectos destacados
 
@@ -110,7 +121,7 @@ Proyecto de ciencia de datos que utiliza información histórica para predecir e
 
 **Mi contribución:** participé en la preparación y revisión de los datos, la creación del modelo predictivo SARIMA y el diseño de la experiencia para consultar las predicciones.
 
-**Tecnologías:** `Python`, `Pandas`, `NumPy`, `Statsmodels` y `SARIMA`  
+**Tecnologías y modelo:** `Python`, `Pandas`, `NumPy`, `Statsmodels` y `SARIMA`  
 **Tipo:** proyecto colaborativo  
 **Repositorio:** [Guayaquil-Energy-Prediction](https://github.com/cgutierrez05/Guayaquil-Energy-Prediction)
 
@@ -133,9 +144,12 @@ Implementación del clásico juego Tres en Raya desarrollada para practicar estr
 **Tipo:** proyecto académico colaborativo  
 **Repositorio:** [MigueAlb/Tic-Tac-Toe](https://github.com/MigueAlb/Tic-Tac-Toe)
 
+---
+
 ## 🎧 Música que acompaña mi código
 
 La música forma parte de mi proceso creativo y suele acompañarme mientras estudio, programo o diseño nuevas ideas. Mis gustos van desde el dream pop y el rock en español hasta el pop y el K-pop.
+
 Algunos de mis álbumes favoritos son:
 
 - [*Heaven or Las Vegas* — Cocteau Twins](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E)
@@ -146,6 +160,8 @@ Algunos de mis álbumes favoritos son:
 - [*The ReVe Festival 2022 – Feel My Rhythm* — Red Velvet](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46)
 - [*Get Up* — NewJeans](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18)
 - [*Midnights (The Til Dawn Edition)* — Taylor Swift](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A)
+
+---
 
 ## 📫 Contacto
 
