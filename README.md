@@ -1,24 +1,29 @@
-# Hola, soy Emilio
+# Hola, soy Emilio (•̀ᴗ•́)و ̑̑
 
-Soy estudiante de quinto semestre de la carrera de Computación en la Escuela Superior Politécnica del Litoral (ESPOL).
+Estudio Computación en la Escuela Superior Politécnica del Litoral (ESPOL) y actualmente voy por quinto semestre.
 
-He participado en hackathons y proyectos académicos colaborativos, donde he fortalecido habilidades como el trabajo en equipo, la comunicación, la creatividad y la resolución de problemas.
-
----
-
-## `> Sobre mí`
-
-Me interesa explorar la relación entre el arte y la tecnología, investigando cómo ambas áreas pueden conectarse para crear experiencias digitales innovadoras, accesibles y útiles.
-
-Uno de mis principales objetivos es utilizar la tecnología para contribuir a la sociedad, facilitar procesos, resolver problemas y mejorar la vida de las personas.
-
-También disfruto aprender sobre ciencia de datos, inteligencia artificial, Internet de las Cosas, robótica, bases de datos, desarrollo web y experiencia de usuario.
+Además de lo que aprendo en la carrera, procuro participar en hackathons, visitas técnicas, proyectos colaborativos y comunidades estudiantiles. Estas experiencias me han enseñado a trabajar en equipo, comunicar ideas, adaptarme durante el desarrollo y buscar soluciones cuando algo no funciona como esperaba (˶ˆᗜˆ˵)
 
 ---
 
-## `> Áreas de interés`
+## `> Sobre mí` (´• ω •)
 
-Me interesa explorar proyectos que conecten los datos, el desarrollo y el diseño. Quiero seguir profundizando en visualización, modelos de Machine Learning y Deep Learning, desarrollo web y tecnologías que relacionen el mundo digital con el físico.
+Cuando trabajo en equipo, suelo sentirme cómodo tomando la iniciativa y ayudando a organizar el trabajo. Me gusta escuchar las ideas de los demás, delegar tareas según las fortalezas de cada persona y mantener una comunicación clara para que todos sepamos hacia dónde vamos.
+
+También formo parte de dos clubes estudiantiles de ESPOL:
+
+[![PHYCOM](https://img.shields.io/badge/PHYCOM-0EA5E9?style=flat-square)](https://phycom.oe.espol.edu.ec/)
+[![NIoT](https://img.shields.io/badge/NIoT-7C3AED?style=flat-square)](https://www.fiec.espol.edu.ec/es/grupos-estudiantiles)
+
+En estas comunidades relacionadas con la computación física, la innovación tecnológica y el Internet de las Cosas, me gusta colaborar y apoyar en actividades de integración que permitan conectar a sus miembros y compartir experiencias.
+
+Fuera de la tecnología, disfruto correr, hacer origamis y aprender sobre astronomía. Son actividades muy diferentes, pero me ayudan a despejarme, observar los detalles y mantener viva mi curiosidad ( ´﹀` )
+
+---
+
+## `> Áreas de interés` (¬‿¬)
+
+Me interesa moverme entre los datos, el desarrollo y el diseño. Quiero profundizar en visualización, modelos de Machine Learning y Deep Learning, desarrollo web y tecnologías que conecten el mundo digital con el físico (◕‿-)
 
 ![Ciencia de datos e IA](https://img.shields.io/badge/Ciencia_de_datos_%26_IA-6D5DFB?style=for-the-badge)
 ![Desarrollo web](https://img.shields.io/badge/Desarrollo_web-C2410C?style=for-the-badge)
@@ -29,7 +34,9 @@ Me interesa explorar proyectos que conecten los datos, el desarrollo y el diseñ
 
 ---
 
-## `> Habilidades y tecnologías`
+## `> Habilidades y tecnologías` (๑•̀ㅂ•́)و✧
+
+Estas son algunas de las tecnologías y herramientas con las que he trabajado hasta ahora. La lista seguirá creciendo mientras continúe aprendiendo y desarrollando nuevos proyectos ٩(˘◡˘)۶
 
 ### Lenguajes y marcado
 
@@ -76,7 +83,7 @@ Me interesa explorar proyectos que conecten los datos, el desarrollo y el diseñ
 
 ---
 
-## `> Proyectos destacados`
+## `> Proyectos destacados` ٩(ˊᗜˋ )و
 
 | **Saldo Claro — Agentic Scale Hackathon** |
 |---|
@@ -87,7 +94,7 @@ Me interesa explorar proyectos que conecten los datos, el desarrollo y el diseñ
 
 | **Mercado Nocturno del Barrio Chino** |
 |---|
-| Sitio web informativo para difundir las actividades culturales, gastronómicas y comerciales del Mercado Nocturno del Barrio Chino de Guayaquil. |
+| Sitio web informativo creado para difundir las actividades culturales, gastronómicas y comerciales del Mercado Nocturno del Barrio Chino de Guayaquil. |
 | **Mi aporte:** desarrollo del sitio, creación de la identidad visual y organización de la experiencia de navegación. |
 | **Tecnologías:** `HTML` · `CSS` · `JavaScript` |
 | [Ver repositorio](https://github.com/MigueAlb/Proyecto-02) |
@@ -108,22 +115,22 @@ Me interesa explorar proyectos que conecten los datos, el desarrollo y el diseñ
 
 ---
 
-## `> Música que acompaña mi código`
+## `> Música que acompaña mi código` ♬(ノ゜∇゜)ノ♩
 
-La música forma parte de mi proceso creativo y suele acompañarme mientras estudio, programo o diseño. Estos son algunos de los álbumes que siempre vuelvo a escuchar.
+La música casi siempre está presente mientras estudio, programo o diseño. Estos son algunos de los álbumes a los que vuelvo cuando necesito concentrarme, encontrar ideas o simplemente disfrutar un rato.
 
 | [![Heaven or Las Vegas — Cocteau Twins](https://i.scdn.co/image/ab67616d00001e02fe6211303e796f3d5b7a0e02)](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | [![Feel My Rhythm — Red Velvet](https://i.scdn.co/image/ab67616d00001e028c4a282e84a53c1c8acf129a)](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | [![Bocanada — Gustavo Cerati](https://i.scdn.co/image/ab67616d00001e021152471596980e1bba03b6ab)](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | [![Get Up — NewJeans](https://i.scdn.co/image/ab67616d00001e020744690248ef3ba7b776ea7b)](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | [![Eyes Wide Open — TWICE](https://i.scdn.co/image/ab67616d00001e026570fd05bcff5edcb16e617d)](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | [![Amor Amarillo — Gustavo Cerati](https://i.scdn.co/image/ab67616d00001e02a2ec3791d9fd51ad343cc885)](https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR) | [![Midnights — Taylor Swift](https://i.scdn.co/image/ab67616d00001e02fa747621a53c8e2cc436dee0)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | [![Dynamo — Soda Stereo](https://i.scdn.co/image/ab67616d00001e02b755f1b1b4410d404fe21167)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
-¿Tienes alguna playlist o algún álbum que debería escuchar? Siempre acepto recomendaciones.
+¿Tienes alguna playlist o algún álbum que debería escuchar? Siempre acepto recomendaciones (˶ᵔ ᵕ ᵔ˶)
 
 [![Mi perfil en Spotify](https://img.shields.io/badge/Visita_mi_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/xosbgd9y6i7p8jqsota6ajyx0)
 
 ---
 
-## `> Contacto`
+## `> Contacto` (^▽^)/
 
-Si quieres conocer más sobre mis proyectos o conversar sobre tecnología, diseño y desarrollo, puedes encontrarme en:
+Si quieres conversar sobre tecnología, diseño, música o conocer mejor mis proyectos, puedes encontrarme en estos espacios. Siempre estoy abierto a intercambiar ideas y conocer personas con intereses parecidos (っ◔◡◔)っ
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emiemilioo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilio-joel-jaramillo-vera-0017822b3)
