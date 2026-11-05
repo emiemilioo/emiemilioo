@@ -1,4 +1,6 @@
-# Hola, soy Emilio (•̀ᴗ•́)و ̑̑
+![Banner pixel art de Emilio](assets/profile-banner-pixel-animated-v2.gif)
+
+# `> hola, soy Emilio_` (•̀ᴗ•́)و ̑̑
 
 Estudio Computación en la Escuela Superior Politécnica del Litoral (ESPOL) y actualmente voy por quinto semestre.
 
@@ -136,3 +138,7 @@ Si quieres conversar sobre tecnología, diseño, música o conocer mejor mis pro
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilio-joel-jaramillo-vera-0017822b3)
 [![Instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emiemiliio/)
 [![Correo](https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joeljaramilloev24@gmail.com)
+
+---
+
+![Escena nocturna pixel art](assets/profile-footer-pixel-animated-v2.gif)
